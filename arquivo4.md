@@ -1,1 +1,1 @@
-Criação de mais uma dica através do Arquivo4.md
+O git é realmente incrível, vale a pena o estudo!
